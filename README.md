@@ -47,9 +47,10 @@ Future additions:
 
 ## Technology
 
-* firebase
-* react 
-* mongo so i can merge with stashy!
+* React 
+* Mongo so i can merge with stashy!
+* Materialize or Bootstrap
+* I might use that JavaScript thing, too
 
 
 ## API Info
