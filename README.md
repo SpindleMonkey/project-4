@@ -22,13 +22,14 @@ If you create an account, you can save festivals you've visited, find festivals 
 ## Stretch Goals
 
 Future additions:
+* show festival location with Google maps
 * arrange meetups at the festivals
 * link in breeds api from Stashy
 * animal shows (which: sheep, goats, alpaca, llama, etc.)
 * nearest airport
-* wishlist[]
+* wishlist
 * reviews/attendee advice
-* ink to Stashy
+* link to Stashy
 
 
 ## Development Notes
@@ -53,5 +54,8 @@ Future additions:
 * I might use that JavaScript thing, too
 
 
-## API Info
+## Wool Festival API Info
+
+
+
 
